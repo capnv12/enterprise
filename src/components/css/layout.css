@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+body main {
+  padding: 5px;
+  color: white;
+}
+
+.layout {
+  background-color: #020202;
+  margin: 0px;
+  padding: 0px;
+}
+/*# sourceMappingURL=layout.css.map */
